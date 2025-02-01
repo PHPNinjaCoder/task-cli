@@ -17,4 +17,4 @@ Task Tracker is a command-line interface (CLI) application that helps you manage
    git clone https://github.com/PHPNinjaCoder/task-cli.git
    
 ## Project URL
-You can find the project at: https://github.com/PHPNinjaCoder/task-cli
+[Task Tracker CLI Project] (https://roadmap.sh/projects/task-tracker)
